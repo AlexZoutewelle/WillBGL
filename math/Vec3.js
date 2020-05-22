@@ -1,6 +1,6 @@
 "use strict";
 
-var vector3 = function() {
+var Vec3 = function() {
   var self = this;
 
   /*
